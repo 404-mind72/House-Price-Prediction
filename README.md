@@ -57,18 +57,15 @@ House price (in dataset currency)
 Bar plot of average home prices based on home condition from the dataset.
 ![Bar Plot](output.png)
 
-## 🚀 How to Run Streamlit App
+## 🚀 Cara Menjalankan Aplikasi
+
+### 1. Clone Repository
 ```bash
-# Clone repositori
 git clone https://github.com/username/house-price-prediction.git
 cd house-price-prediction
-```bash
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Jalankan Streamlit
-streamlit run app.py
+
 
 
 
