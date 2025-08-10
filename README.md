@@ -62,11 +62,3 @@ Bar plot of average home prices based on home condition from the dataset.
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/username/house-price-prediction.git
-cd house-price-prediction
-
-
-
-
-
-
-
