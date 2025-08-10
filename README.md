@@ -55,6 +55,7 @@ House price (in dataset currency)
 
 ### 📊 Plot Result
 Bar plot of average home prices based on home condition from the dataset.
+
 ![Bar Plot](output.png)
 
 ## 🚀 Run the Application
@@ -76,6 +77,7 @@ http://localhost:8501
 ```
 
 ### 🖥️ Application Usage
-1. Enter the number of bedrooms, bathrooms, building area, house condition, and number of nearby schools.
-2. Click Predict Price to see the estimated home price.
+- Enter the number of bedrooms, bathrooms, building area, house condition, and number of nearby schools.
+- Click Predict Price to see the estimated home price.
+  
 ![Bar Plot](visual.png)
