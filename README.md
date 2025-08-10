@@ -53,6 +53,6 @@ House price (in dataset currency)
 - The model can be upgraded with other algorithms or added new features (location, land area, year of construction, etc.).
 - Streamlit applications can be deployed to Streamlit Cloud, Heroku, or Docker for widespread use.
 
-### Bar Plot Kondisi Rumah vs Harga
+### Plot Result
 ![Bar Plot Kondisi Rumah](images/output.png)
 
