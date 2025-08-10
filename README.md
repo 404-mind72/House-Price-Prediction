@@ -54,5 +54,6 @@ House price (in dataset currency)
 - Streamlit applications can be deployed to Streamlit Cloud, Heroku, or Docker for widespread use.
 
 ### Plot Result
-![Bar Plot Kondisi Rumah](images/output.png)
+![Bar Plot](output.png)
+
 
