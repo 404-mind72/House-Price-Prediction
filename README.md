@@ -61,9 +61,7 @@ This graph can show the trend of increasing home prices as home conditions impro
 ## 🚀 How to Run Streamlit App
 1. Clone repository:
 ```bash
-# Contoh perintah di bash
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/404-mind72/house-price-prediction.git
 
 
 
