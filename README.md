@@ -4,6 +4,7 @@ This project is a house price prediction application in India using machine lear
 
 ## 📂 Dataset
 Dataset : House Price India.csv (source: https://www.kaggle.com/datasets/sukhmandeepsinghbrar/house-prices-india)
+
 Key features used :
 - bedrooms – number of bedrooms
 - bathrooms – number of bathrooms
