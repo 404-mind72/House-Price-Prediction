@@ -24,3 +24,11 @@ House price (in dataset currency)
 - Using regression evaluation metrics such as R² Score, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
 #### 4. Deployment
 - The model is integrated with the Streamlit application for real-time house price prediction.
+
+## 📦 Library
+- pandas
+- numpy
+- scikit-learn
+- joblib
+- streamlit
+- matplotlib
