@@ -15,7 +15,7 @@ Prediction target:
 House price (in dataset currency)
 
 ## ⚙️ Methodology
-### 1. Data Preprocessing
+##### 1. Data Preprocessing
 - Selecting relevant features from the dataset
 - Normalization/Standardization if necessary (depending on the model)
 ### 2. Modeling
