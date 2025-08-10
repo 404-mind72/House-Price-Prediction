@@ -15,12 +15,12 @@ Prediction target:
 House price (in dataset currency)
 
 ## ⚙️ Methodology
-##### 1. Data Preprocessing
+#### 1. Data Preprocessing
 - Selecting relevant features from the dataset
 - Normalization/Standardization if necessary (depending on the model)
-### 2. Modeling
+#### 2. Modeling
 - Machine Learning models are saved in the model.pkl file (e.g., using Random Forest Regressor or other regression algorithms)
-### 3. Model Evaluation
+#### 3. Model Evaluation
 - Using regression evaluation metrics such as R² Score, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
-### 4. Deployment
+#### 4. Deployment
 - The model is integrated with the Streamlit application for real-time house price prediction.
