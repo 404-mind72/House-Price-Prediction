@@ -1,5 +1,5 @@
 # 🏠 House Price Prediction
-# 📌Project Description
+##📌Project Description##
 This project is a house price prediction application in India using machine learning. The model is trained using a public dataset from Kaggle containing various house features such as the number of bedrooms, bathrooms, building area, condition, and number of nearby schools.
 
 The application is built with Streamlit, allowing users to easily input property data and receive instant price predictions.
