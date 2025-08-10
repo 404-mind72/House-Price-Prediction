@@ -62,10 +62,21 @@ Bar plot of average home prices based on home condition from the dataset.
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/username/house-price-prediction.git
-
----
-
+```
 ### 2. Install Requirements
 ```bash
 pip install -r requirements.txt
+```
+### 3. Launch Streamlit App
+```bash
+streamlit run app.py
+```
+### 4. Access in Browser At The Address
+```bash
+http://localhost:8501
+```
 
+### 🖥️ Application Usage
+1. Enter the number of bedrooms, bathrooms, building area, house condition, and number of nearby schools.
+2. Click Predict Price to see the estimated home price.
+![Bar Plot](output.png)
