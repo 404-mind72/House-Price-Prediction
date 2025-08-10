@@ -68,7 +68,7 @@ Dataset of house prices along with structural information.
 ## 🚀 Run The Application
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/404-mind72/house-price-prediction.git
+git clone https://github.com/404-mind72/House-Price-Prediction.git
 ```
 ### 2. Install Requirements
 ```bash
