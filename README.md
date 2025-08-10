@@ -59,6 +59,12 @@ Bar plot of average home prices based on home condition from the dataset.
 
 ![Bar Plot](output.png)
 
+### 📈 Dataset View
+
+Dataset of house prices along with structural information.
+
+![Bar Plot](dataset.png)
+
 ## 🚀 Run the Application
 ### 1. Clone Repository
 ```bash
