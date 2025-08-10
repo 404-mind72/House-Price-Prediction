@@ -83,5 +83,5 @@ http://localhost:8501
   
 ![Bar Plot](visual.png)
 
-### 🤖Contributions
+### 🚩Contributions
 We greatly appreciate contributions to improve the model, add or enhance features, and optimize the deployment process. Please submit a pull request with a clear description of the changes.
