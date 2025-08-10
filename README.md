@@ -3,15 +3,15 @@
 This project is a house price prediction application in India using machine learning. The model is trained using a public dataset from Kaggle containing various house features such as the number of bedrooms, bathrooms, building area, condition, and number of nearby schools.
 
 ## 📂 Dataset
-Dataset: House Price India.csv (source: https://www.kaggle.com/datasets/sukhmandeepsinghbrar/house-prices-india)
-- Key features used:
+Dataset : House Price India.csv (source: https://www.kaggle.com/datasets/sukhmandeepsinghbrar/house-prices-india)
+Key features used :
 - bedrooms – number of bedrooms
 - bathrooms – number of bathrooms
 - livingarea – building area (sq ft)
 - condition – condition of the house (scale 1–5)
 - numberofschools – number of schools near the house
 
-Prediction target:
+Prediction target :
 House price (in dataset currency)
 
 ## ⚙️ Methodology
@@ -81,3 +81,6 @@ http://localhost:8501
 - Click Predict Price to see the estimated home price.
   
 ![Bar Plot](visual.png)
+
+### 🤖Contributions
+We greatly appreciate contributions to improve the model, add or enhance features, and optimize the deployment process. Please submit a pull request with a clear description of the changes.
