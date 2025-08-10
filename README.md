@@ -58,7 +58,6 @@ Bar plot of average home prices based on home condition from the dataset.
 ![Bar Plot](output.png)
 
 ## 🚀 Run the Application
-
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/username/house-price-prediction.git
@@ -71,7 +70,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-### 4. Access in Browser At The Address
+### 4. Browser Address
 ```bash
 http://localhost:8501
 ```
