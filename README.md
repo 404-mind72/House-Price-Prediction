@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+## 🏠 House Price Prediction
 ## 📌 Project Description
 This project is a house price prediction application in India using machine learning. The model is trained using a public dataset from Kaggle containing various house features such as the number of bedrooms, bathrooms, building area, condition, and number of nearby schools.
 
@@ -57,7 +57,7 @@ House price (in dataset currency)
 Bar plot of average home prices based on home condition from the dataset.
 ![Bar Plot](output.png)
 
-## 🚀 Cara Menjalankan Aplikasi
+## 🚀 Run the Application
 
 ### 1. Clone Repository
 ```bash
