@@ -47,10 +47,10 @@ House price (in dataset currency)
 - Example of the end-to-end machine learning flow: from dataset collection, preprocessing, model training, evaluation, to deployment.
 - Easily learning for those wanting to understand regression and price prediction.
 #### 5. 📚 Data Source for Research Purposes
--Can be used by students, researchers, or data practitioners to experiment with property price prediction models.
--The Kaggle dataset makes it open and replicable.
+- Can be used by students, researchers, or data practitioners to experiment with property price prediction models.
+- The Kaggle dataset makes it open and replicable.
 #### 6. 🚀 Flexible for Further Development
--The model can be upgraded with other algorithms or added new features (location, land area, year of construction, etc.).
+- The model can be upgraded with other algorithms or added new features (location, land area, year of construction, etc.).
 - Streamlit applications can be deployed to Streamlit Cloud, Heroku, or Docker for widespread use.
 
 ### Bar Plot Of Average House Price By Souse Condition From Dataset
