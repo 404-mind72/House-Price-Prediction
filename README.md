@@ -58,18 +58,12 @@ Bar plot of average home prices based on home condition from the dataset. This g
 ![Bar Plot](output.png)
 
 ## 🚀 How to Run Streamlit App
-1. Clone repository:
-```bash git clone https://github.com/404-mind72/house-price-prediction.git
-1️⃣ Clone Repository
-bash
-git clone https://github.com/username/house-price-prediction.git
+1. Clone Repository
+bash git clone https://github.com/username/house-price-prediction.git
 cd house-price-prediction
-2️⃣ Install Requirements
-bash
-pip install -r requirements.txt
-3️⃣ Jalankan Aplikasi Streamlit
-bash
-streamlit run app.py
+2. Install Requirements
+bash pip install -r requirements.txt
+
 
 
 
