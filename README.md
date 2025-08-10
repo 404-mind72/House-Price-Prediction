@@ -10,6 +10,5 @@ Dataset: House Price India.csv (source: Kaggle)
 4. livingarea – building area (sq ft)
 5. condition – condition of the house (scale 1–5)
 6. numberofschools – number of schools near the house
-
 Prediction target:
-### House price (in dataset currency)
+House price (in dataset currency)
