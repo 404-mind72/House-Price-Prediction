@@ -54,7 +54,7 @@ House price (in dataset currency)
 - Streamlit applications can be deployed to Streamlit Cloud, Heroku, or Docker for widespread use.
 
 ### 📊 Plot Result
-Bar plot of average home prices based on home condition from the dataset. This graph can show the trend of increasing home prices as home conditions improve.
+Bar plot of average home prices based on home condition from the dataset.
 ![Bar Plot](output.png)
 
 ## 🚀 How to Run Streamlit App
@@ -62,6 +62,7 @@ Bar plot of average home prices based on home condition from the dataset. This g
 # Clone repositori
 git clone https://github.com/username/house-price-prediction.git
 cd house-price-prediction
+```bash
 
 # Install dependencies
 pip install -r requirements.txt
