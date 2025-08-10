@@ -65,7 +65,7 @@ Dataset of house prices along with structural information.
 
 ![Bar Plot](dataset.png)
 
-## 🚀 Run the Application
+## 🚀 Run The Application
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/404-mind72/house-price-prediction.git
@@ -90,4 +90,4 @@ http://localhost:8501
 ![Bar Plot](visual.png)
 
 ### 🚩Contributions
-We greatly appreciate contributions to improve the model, add or enhance features, and optimize the deployment process. Please submit a pull request with a clear description of the changes.
+I would appreciate contributions to improve the model, add or enhance features, and optimize the deployment process. Please submit a pull request with a clear description of the changes.
