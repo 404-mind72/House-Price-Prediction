@@ -54,12 +54,12 @@ House price (in dataset currency)
 - The model can be upgraded with other algorithms or added new features (location, land area, year of construction, etc.).
 - Streamlit applications can be deployed to Streamlit Cloud, Heroku, or Docker for widespread use.
 
-### 📊 Plot Result
+## 📊 Plot Result
 Bar plot of average home prices based on home condition from the dataset.
 
 ![Bar Plot](output.png)
 
-### 📈 Dataset View
+## 📈 Dataset View
 
 Dataset of house prices along with structural information.
 
@@ -83,11 +83,16 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-### 🖥️ Application Usage
+## 🖥️ Application Usage
 - Enter the number of bedrooms, bathrooms, building area, house condition, and number of nearby schools.
 - Click Predict Price to see the estimated home price.
   
 ![Bar Plot](visual.png)
 
-### 🚩Contributions
-I would appreciate contributions to improve the model, add or enhance features, and optimize the deployment process. Please submit a pull request with a clear description of the changes.
+## 🚩Contributions
+I would appreciate contributions to improve the model, add or enhance features, and optimize the deployment process. For any queries, reach out to me at joni150703@gmail.com
+
+## 📄 License
+This project is licensed under the MIT License.
+Free to use, modify, and distribute.
+
